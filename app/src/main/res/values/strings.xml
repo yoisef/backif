@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Werpx</string>
+    <string name="enterbar">Enter Barcode </string>
+    <string name="alertpay">please wait for the Merchant Terminal for verifying the Cart items</string>
+    <string name="login">Sign In</string>
+    <string name="pay">Pay</string>
+    <string name="camerausage">Please put Barcode in rectangle to scan it </string>
+    <string name="cancelcamera">Cancel</string>
+    <string name="done">Done</string>
+    <string name="scananother">Scan Another</string>
+    <string name="productaddedtocart">Product added to cart</string>
+    <string name="transfer">Transfer</string>
+    <string name="epbarcode">Enter Product Barcode</string>
+    <string name="ok">Ok</string>
+    <string name="hintemail">Enter your email or Mobile number </string>
+    <string name="hintpass">Enter your Password </string>
+    <string name="logout">Logout</string>
+    <string name="quedeleteitem">Delete item ?</string>
+    <string name="ansdeleteitem">Yes Delete</string>
+    <string name="paymentver">Payment Verification</string>
+    <string name="defayltproductname">Product</string>
+    <string name="submit">Submit</string>
+    <string name="chooseitemnu">Choose Items Numbers</string>
+    <string name="empty_email">Fill Email Address or phone Number</string>
+    <string name="empty_pass">Fill With Password</string>
+    <string name="items">Items</string>
+    <string name="ordercustomer">Order Customer</string>
+    <string name="orderamount">Order Amount $</string>
+    <string name="totalsales">Total sales :</string>
+    <string name="removehistory">Remove History</string>
+    <string name="ordermenu">List of Orders</string>
+    <string name="payconfirmation">Do you want to delete them from inventory ?</string>
+    <string name="titlepayconf">Confirm deletion</string>
+    <string name="showdetails">Show Details</string>
+    <string name="hidedetails">Hide Details</string>
+
+</resources>
